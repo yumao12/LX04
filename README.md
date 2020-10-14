@@ -1,2 +1,2 @@
-# LX04
+# Lx04
 uploadCors
